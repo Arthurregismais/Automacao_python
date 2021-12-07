@@ -1,0 +1,12 @@
+- Deve se salientar que os comandos funcionam apenas no meu computador desktop,
+por causa das posições x e y que passamos ao pyautogui.
+
+- É possível descobrir a posição x e y do mouse por meio do arquivo python: 'Detectar_posição_mouse'
+
+- Sempre que for utilizar o pyautogui, o comando : 'Import pyautogui' deve estar presente no código,
+é recomendável usar o 'import time' para auxiliar nas pausas que o seu código possa precisar ter
+
+- Dica para a implementação da automação: Imagine como VOCÊ faria para realizar o processo, e escreva
+passo a passo
+
+- No arquivo python: 'Automação', tem um exemplo da automação de backup de arquivo no google drive
