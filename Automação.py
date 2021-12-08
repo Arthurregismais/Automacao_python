@@ -3,7 +3,7 @@ import time
 
 if __name__ == '__main__':
     pyautogui.alert('Por favor, não mexa no teclado ou no mouse durante a execução do código')
-    pyautogui.PAUSE = 0.5
+    pyautogui.PAUSE = 0.75
 #Abrir o google drive no meu computador
 
     pyautogui.press('winleft')
